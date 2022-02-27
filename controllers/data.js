@@ -6,8 +6,8 @@ exports.getData = (req, res, next) => {
             'firstName': 'Yrvyn ',
             'url': 'https://www.facebook.com/yrvyn.medinalira'
         },
-        'primaryDescription': 'FullStack Software Developer',
-        'workDescription1': 'Developer',
+        'primaryDescription': 'Software Developer',
+        'workDescription1': 'sales man',
         'workDescription2': 'Sales',
         'linkTitleText': 'My Job',
         'linkedInLink': {
